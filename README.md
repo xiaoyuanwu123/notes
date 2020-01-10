@@ -2,3 +2,4 @@
 # Spring Boot 英文官方文档：https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/
 # @Transactional的使用: https://www.jianshu.com/p/befc2d73e487
 # mybatis plus的文档: https://mp.baomidou.com/guide/
+# vlc播放 https://www.jianshu.com/p/2c61e3c6aa70
