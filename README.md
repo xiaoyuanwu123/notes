@@ -171,13 +171,6 @@ subprojects {
 				<!-- 系统构建组装根路径，.win WINDOWS 环境下默认路径；.unix UNIX 环境下默认路径 -->
 				<netnumen.project.assoutdir.win>${env.HOMEDRIVE}/netnumen/${netnumen.project.id}${project.version}</netnumen.project.assoutdir.win>
 				<netnumen.project.assoutdir.unix>~/netnumen/${netnumen.project.id}${project.version}</netnumen.project.assoutdir.unix>
-				<!--netnumen.project.cq.site.ip>${cqsite-ip}</netnumen.project.cq.site.ip>
-				<netnumen.project.assembly.outputbasedir>${assout-dir}/${netnumen.project.id}</netnumen.project.assembly.outputbasedir>
-				<netnumen.project.assembly.outputdir>${netnumen.project.assembly.outputbasedir}</netnumen.project.assembly.outputdir>
-				<netnumen.project.assembly.finalname>${assembly-finalname}</netnumen.project.assembly.finalname>
-				<netnumen.project.baseurl>${netnumen.project.site.ip}/projects/netnumen</netnumen.project.baseurl>
-				<netnumen.project.url>${netnumen.project.baseurl}</netnumen.project.url>
-				<assembly-finalname/ !-->
 				<uep.project.assembly.outputdir>d:/product_tmp</uep.project.assembly.outputdir>
 				<uep-version>${project.version}</uep-version>
 			</properties>
@@ -208,18 +201,6 @@ subprojects {
 				<netnumen.project.assout.path>${netnumen.project.assoutdir.unix}</netnumen.project.assout.path>
 			</properties>
 		</profile>
-		<!--profile>
-			<id>jdk-1.7</id>
-			<activation>
-				<activeByDefault>true</activeByDefault>
-				<jdk>1.7</jdk>
-			</activation>
-			<properties>
-				<maven.compiler.source>1.7</maven.compiler.source>
-				<maven.compiler.target>1.7</maven.compiler.target>
-				<maven.compiler.compilerVersion>1.7</maven.compiler.compilerVersion>
-			</properties>	
-		</profile-->
 	</profiles>
 	<activeProfiles>
 		<activeProfile>env-settings</activeProfile>
