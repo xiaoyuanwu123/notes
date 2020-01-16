@@ -21,4 +21,15 @@ https://blog.csdn.net/abc_12366/article/details/79982058
 # datafx学习 
 http://www.guigarage.com/2014/05/datafx-8-0-tutorials/
 https://blog.csdn.net/s_ghost/article/details/7406800
-
+#src->build.gradle
+    compile 'org.kordamp.ikonli:ikonli-fontawesome5-pack:2.4.0'
+    // https://mvnrepository.com/artifact/net.java.dev.jna/platform
+    compile 'net.java.dev.jna:platform:3.5.2'
+    // https://mvnrepository.com/artifact/net.java.dev.jna/jna
+    compile 'net.java.dev.jna:jna:3.5.2'
+    // https://mvnrepository.com/artifact/uk.co.caprica/vlcj
+    compile 'uk.co.caprica:vlcj:3.8.0'
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12
+    testCompile 'org.slf4j:slf4j-log4j12:1.7.10'
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-nop
+    testCompile  'org.slf4j:slf4j-nop:1.7.24'
