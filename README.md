@@ -41,17 +41,17 @@ https://cloud.tencent.com/developer/ask/221715
 
 #java调用sdl播放视频:
 
-https://www.cnblogs.com/liuling/p/2013-12-20.html(java调用c)
+https://www.cnblogs.com/liuling/p/2013-12-20.html (java调用c)
 
-https://www.cnblogs.com/gisblogs/p/5504124.html(以sdl为例说java动态加载)
+https://www.cnblogs.com/gisblogs/p/5504124.html (以sdl为例说java动态加载)
 
 https://www.cnblogs.com/jhlong/p/5433839.html
 
 https://blog.csdn.net/weixin_42462202/article/details/88370091
 
-http://www.libsdl.org/download-1.2.php(下载sdl)
+http://www.libsdl.org/download-1.2.php (下载sdl)
 
-https://blog.csdn.net/subfate/article/details/47832985(yuv播放器)
+https://blog.csdn.net/subfate/article/details/47832985 (yuv播放器)
 
 https://blog.csdn.net/huachao1001/article/details/53906237 (IDEA平台下JNI编程（一）—HelloWorld篇)
 
