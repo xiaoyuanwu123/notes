@@ -53,6 +53,6 @@ http://www.libsdl.org/download-1.2.php(下载sdl)
 
 https://blog.csdn.net/subfate/article/details/47832985(yuv播放器)
 
-https://blog.csdn.net/huachao1001/article/details/53906237(IDEA平台下JNI编程（一）—HelloWorld篇)
+https://blog.csdn.net/huachao1001/article/details/53906237 (IDEA平台下JNI编程（一）—HelloWorld篇)
 
-https://blog.csdn.net/wsxzhbzl/article/details/82727034(idea 2018 平台下JNI编程调用C++算法)
+https://blog.csdn.net/wsxzhbzl/article/details/82727034 (idea 2018 平台下JNI编程调用C++算法)
