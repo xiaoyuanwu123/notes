@@ -35,7 +35,8 @@ https://blog.csdn.net/s_ghost/article/details/7406800
     testCompile 'org.slf4j:slf4j-log4j12:1.7.10'
     // https://mvnrepository.com/artifact/org.slf4j/slf4j-nop
     testCompile  'org.slf4j:slf4j-nop:1.7.24'
-#media player不播放也不报错：https://cloud.tencent.com/developer/ask/221715
+#media player不播放也不报错：
+https://cloud.tencent.com/developer/ask/221715
 
 #java调用sdl播放视频:
 
