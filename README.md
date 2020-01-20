@@ -43,7 +43,7 @@ https://cloud.tencent.com/developer/ask/221715
 
 https://www.cnblogs.com/liuling/p/2013-12-20.html(java调用c)
 
-https://www.cnblogs.com/gisblogs/p/5504124.html
+https://www.cnblogs.com/gisblogs/p/5504124.html(以sdl为例说java动态加载)
 
 https://www.cnblogs.com/jhlong/p/5433839.html
 
