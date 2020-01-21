@@ -45,9 +45,9 @@ https://www.cnblogs.com/liuling/p/2013-12-20.html (java调用c)
 
 https://www.cnblogs.com/gisblogs/p/5504124.html (以sdl为例说java动态加载)
 
-https://www.cnblogs.com/jhlong/p/5433839.html
+https://www.cnblogs.com/jhlong/p/5433839.html (SDL简介)
 
-https://blog.csdn.net/weixin_42462202/article/details/88370091
+https://blog.csdn.net/weixin_42462202/article/details/88370091 (使用SDL实现一个简单的YUV播放器)
 
 http://www.libsdl.org/download-1.2.php (下载sdl)
 
