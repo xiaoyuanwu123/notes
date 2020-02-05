@@ -60,25 +60,5 @@ https://blog.csdn.net/wsxzhbzl/article/details/82727034 (idea 2018 平台下JNI�
 
 https://nuwen.net/mingw.html (下载MinGW)
 
-<?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.*?>
-<?import java.lang.*?>
-<?import javafx.scene.layout.*?>
-
-
-<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-padding: 10;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <HBox opacity="0.95" prefHeight="100.0" prefWidth="200.0">
-         <children>
-            <ComboBox prefHeight="23.0" prefWidth="119.0" />
-            <ComboBox prefHeight="23.0" prefWidth="118.0" />
-            <Button depthTest="DISABLE" lineSpacing="10.0" mnemonicParsing="false" text="匹配测试" />
-            <Button mnemonicParsing="false" text="设置" />
-            <Button mnemonicParsing="false" text="求助" />
-            <Button mnemonicParsing="false" text="提交" />
-         </children>
-      </HBox>
-   </children>
-</StackPane>
 
