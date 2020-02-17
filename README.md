@@ -20,9 +20,6 @@ https://blog.csdn.net/abc_12366/article/details/79982058
 http://www.guigarage.com/2014/05/datafx-8-0-tutorials/
 https://blog.csdn.net/s_ghost/article/details/7406800
 http://www.xntutor.com/javafx/javafx-stackpane-layout.html (javafx布局)
-#media player不播放也不报错：
-
-https://cloud.tencent.com/developer/ask/221715
 
 #java调用sdl播放视频:
 
