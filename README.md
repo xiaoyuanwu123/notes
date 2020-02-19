@@ -27,9 +27,9 @@ javafxpackager -deploy -native image -appclass com.zte.xr.ccoclient.Design -srcd
 //购买exe4j的lience链接
 
 https://www.ej-technologies.com/buy/exe4j/select/index
+
 //下载JSMoonth
-
 http://jsmooth.sourceforge.net/download.php
-//下载Launch4j
 
+//下载Launch4j
 https://www.cnblogs.com/webjlwang/p/10912223.html
