@@ -6,30 +6,11 @@ https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/
  https://www.jianshu.com/p/befc2d73e487
 # mybatis plus的文档:
  https://mp.baomidou.com/guide/
-# javafx学习 
-https://blog.csdn.net/abc_12366/article/details/79966055
-
-https://blog.csdn.net/abc_12366/article/details/79968136
-
-https://blog.csdn.net/abc_12366/article/details/79973198?utm_source=blogxgwz5
-
-https://blog.csdn.net/abc_12366/article/details/79980211
-
-https://blog.csdn.net/abc_12366/article/details/79982058
 # datafx学习 
 http://www.guigarage.com/2014/05/datafx-8-0-tutorials/
 https://blog.csdn.net/s_ghost/article/details/7406800
 http://www.xntutor.com/javafx/javafx-stackpane-layout.html (javafx布局)
 
-#java调用sdl播放视频:
-
-https://www.cnblogs.com/liuling/p/2013-12-20.html (java调用c)
-
-https://www.cnblogs.com/gisblogs/p/5504124.html (以sdl为例说java动态加载)
-
-https://www.cnblogs.com/jhlong/p/5433839.html (SDL简介)
-
-https://blog.csdn.net/weixin_42462202/article/details/88370091 (使用SDL实现一个简单的YUV播放器)
 
 http://www.libsdl.org/download-1.2.php (下载sdl)
 
@@ -43,3 +24,5 @@ https://nuwen.net/mingw.html (下载MinGW)
 
 javafxpackager -deploy -native image -appclass com.zte.xr.ccoclient.Design -srcdir d:/wxy/jar -outdir d:/wxy/exe -outfile chinaApp -name china
 
+//购买exe4j的lience链接
+https://www.ej-technologies.com/buy/exe4j/select/index
