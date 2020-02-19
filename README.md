@@ -30,3 +30,6 @@ https://www.ej-technologies.com/buy/exe4j/select/index
 //下载JSMoonth
 
 http://jsmooth.sourceforge.net/download.php
+//下载Launch4j
+
+https://www.cnblogs.com/webjlwang/p/10912223.html
