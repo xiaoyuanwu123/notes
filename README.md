@@ -25,4 +25,5 @@ https://nuwen.net/mingw.html (下载MinGW)
 javafxpackager -deploy -native image -appclass com.zte.xr.ccoclient.Design -srcdir d:/wxy/jar -outdir d:/wxy/exe -outfile chinaApp -name china
 
 //购买exe4j的lience链接
+
 https://www.ej-technologies.com/buy/exe4j/select/index
