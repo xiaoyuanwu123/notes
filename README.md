@@ -17,3 +17,12 @@ http://www.xntutor.com/javafx/javafx-stackpane-layout.html (javafx布局)
 
 https://www.liaoxuefeng.com/wiki/1252599548343744/1306580844806178
 
+        String XHTTPMETHOD = req.getHeader("X-HTTP-METHOD");
+        String XHTTPMethodOverride=req.getHeader("X-HTTP-Method-Override");
+        String XMETHODOVERRIDE= req.getHeader("X-METHOD-OVERRIDE");
+        if (XHTTPMETHOD != null||XHTTPMethodOverride!=null||XMETHODOVERRIDE!=null) {
+            resp.sendError(HttpServletResponse.SC_FORBIDDEN);
+            return;
+        }
+
+        chain.doFilter(req, resp);
