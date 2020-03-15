@@ -29,4 +29,7 @@ https://www.liaoxuefeng.com/wiki/1252599548343744/1306580844806178
         
 # maven
 
-https://how2j.cn/k/maven/maven-introduction/1328.html?p=81777        
+https://how2j.cn/k/maven/maven-introduction/1328.html?p=81777       
+
+# Jackson 的 基本用法
+https://www.cnblogs.com/guanbin-529/p/11488869.html
