@@ -34,3 +34,6 @@ https://how2j.cn/k/maven/maven-introduction/1328.html?p=81777
 
 # Jackson 的 基本用法
 https://www.cnblogs.com/guanbin-529/p/11488869.html
+
+
+https://artnj.zte.com.cn/artifactory/webapp/#/artifacts/browse/tree/General/zxsecurity-release-generic/common/webinspect/For-WIE-Client/01%E7%8E%AF%E5%A2%83%E5%BF%85%E5%A4%87/SecurityToolkit_19.2.zip!/SecurityToolkit_19.2/MacroRecorder5_0.msi
