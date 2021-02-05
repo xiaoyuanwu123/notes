@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T13:50:07.358Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="fB5mf4SeBAEPLiPoNsZO" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-05T02:34:15.417Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="iCopb4Yv5VQgD1_lFGs4" version="14.2.9" type="github" pages="2">
   <diagram id="jQa9sGm4R0DZDFu90RpT" name="Page-1">
-    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,19 +158,19 @@
           <mxGeometry x="425" y="775" width="20" height="135" as="geometry" />
         </mxCell>
         <mxCell id="8WR-aKJWOomidM0wkgMh-66" value="渲染平台边缘的安装脚本" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="580" y="775" width="150" height="20" as="geometry" />
+          <mxGeometry x="564" y="775" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8WR-aKJWOomidM0wkgMh-67" value="云魔镜驱动，代理虚机安装包，render-SteamVR_MultiRoute-4.00.01B2.zip" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="564" y="830" width="410" height="20" as="geometry" />
+        <mxCell id="8WR-aKJWOomidM0wkgMh-67" value="云魔镜驱动，代理虚机安装包，一机多路的steamvr驱动" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="570" y="825" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WR-aKJWOomidM0wkgMh-68" value="大空间的驱动" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="570" y="860" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8WR-aKJWOomidM0wkgMh-69" value="XR_Render_XRSDK.zip" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="545" y="890" width="140" height="20" as="geometry" />
+        <mxCell id="8WR-aKJWOomidM0wkgMh-69" value="SDK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8WR-aKJWOomidM0wkgMh-70" value="ZTE-AR-Android.zip,ZTE-BigSpace-Android.zip，ZTE-Collaboration-Android.zip" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="435" y="955" width="440" height="20" as="geometry" />
+        <mxCell id="8WR-aKJWOomidM0wkgMh-70" value="云识别、大空间、上飞协作Android" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="955" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WR-aKJWOomidM0wkgMh-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="404" y="980" width="20" height="90" as="geometry" />
@@ -183,9 +183,6 @@
         </mxCell>
         <mxCell id="8WR-aKJWOomidM0wkgMh-74" value="天翼视讯的算法平台安装包" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="430" y="1060" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8WR-aKJWOomidM0wkgMh-75" value="UnitySDK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="740" y="935" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WR-aKJWOomidM0wkgMh-76" value="&lt;pre style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;span style=&quot;&quot;&gt;四川移动算法&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=12;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="540" y="1010" width="120" height="50" as="geometry" />
