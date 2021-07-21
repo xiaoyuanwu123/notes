@@ -48,3 +48,5 @@ https://www.cnblogs.com/kevingrace/p/6238195.html
 #python的格式设置
 
 https://blog.csdn.net/Stillboring/article/details/105890415
+#线程变量隔离
+https://blog.csdn.net/zebe1989/article/details/82692551
