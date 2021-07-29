@@ -52,3 +52,7 @@ https://blog.csdn.net/Stillboring/article/details/105890415
 #jenkins学习
 
 https://www.w3cschool.cn/jenkins/jenkins-c7qs28n5.html
+
+#docker cpu
+
+https://blog.csdn.net/weixin_34032779/article/details/90132870?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-17.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-17.control
