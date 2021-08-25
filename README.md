@@ -60,3 +60,7 @@ https://blog.csdn.net/weixin_34032779/article/details/90132870?utm_medium=distri
 iptables
 
 https://blog.csdn.net/u011537073/article/details/82685586
+
+version/xrexplore/4.00.04B1/release_platform/
+
+https://artnj.zte.com.cn:443/artifactory/xrexplore-snapshot-generic/version/xrexplore/4.00.04B1/release_platform/729
