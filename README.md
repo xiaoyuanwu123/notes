@@ -66,7 +66,6 @@ version/xrexplore/4.00.04B1/release_platform/
 https://artnj.zte.com.cn:443/artifactory/xrexplore-snapshot-generic/version/xrexplore/4.00.04B1/release_platform/729
 
 #jenkins
-
 https://thomast1an.github.io/#/./docs/Jenkins/Jenkins%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95?id=jenkins%e6%98%af%e4%bb%80%e4%b9%88
 
 #shell
